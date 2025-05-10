@@ -329,8 +329,7 @@ img{
         font-size: 6rem;
     }
 
-    /*Newsletter*/
-
+    /*Newsletters*/ 
     .newsletter{
         background-image: linear-gradient(to bottom, transparent 50%, var(--blanco) 0%),
          url(../img/newsletter.jpg);
